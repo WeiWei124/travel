@@ -1,0 +1,12 @@
+{
+	"admin":[
+	{
+		"name":"郭祥然",
+		"password":"guo979693",
+		"icon":"/static/images/myself.png"
+	},{
+		"name":"郭跃",
+		"password":"guo979693.",
+		"icon":"/static/images/mind.png"
+	}
+]}
